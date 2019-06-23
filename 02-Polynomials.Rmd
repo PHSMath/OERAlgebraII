@@ -1,0 +1,28 @@
+# Polynomials and Polynomial Functions {#Polynomials}
+
+## Review: Properties of Exponents
+
+## Basics Polynomial Functions
+### Fundamentals
+### Polynomial Operations
+### End Behavior
+### Zeros
+
+## Graphs of Polynomial Functions
+### Intercept Form
+### Equations of Polynomial Functions from Graph
+
+## Factor and Solve Polynomial Equations
+### Special Patterns
+### Factoring Tools
+#### Remainder and Factor Theorem
+#### Synthetic Division and Substitution
+#### Rational Root Theorem
+#### Descartes Rule of Signs
+#### Fundamental Theorem of Algebra
+### Find Rational Zeros
+### Find Real Zeros
+
+## Analyze Grapsh of Polynomial Functions
+### Writing Least Degree Polynomial Function from Graph
+

@@ -1,0 +1,20 @@
+# Rational Expressions, Equations, and Functions {#Rational}
+
+## Reciprocal Function $f(x)=\frac{1}{x}$
+### Graph of Reciprocal Function
+### Transformation of Graphs
+### Change $f(x)=\frac{x+a}{x+b}$ to $f(x)=\frac{a}{x-h}+k$
+### Model Inverse and Joint Variation
+
+## Rational Expressions
+### Multiply and Divide Rational Expressions
+### Add and Subtract Rational Expressions
+
+## Graph Rational Functions
+### Rules for Graphing Rational Functions
+
+## Solve Rational Equations
+
+## Writing Rational Equations from Graphs
+
+## Partial Fraction Decomposition

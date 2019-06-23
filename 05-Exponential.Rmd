@@ -1,0 +1,19 @@
+# Exponential and Logarithmic Functions
+
+## Exponential Functions
+### Standard Form
+#### Growth
+#### Decay
+### Graphs
+#### Growth
+#### Decay
+### The Exponential Function
+
+## Logarithmic Functions
+### Definition of a Logarithm
+### Properties of Logarithms
+### Graphs of Logarithmic Functions
+
+## Solve Exponential and Logarithmic Equations
+
+## Write and Apply Exponential and Power Functions

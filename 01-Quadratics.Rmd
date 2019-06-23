@@ -1,0 +1,45 @@
+# Quadratic Functions and Factoring {#Quadratics}
+
+## Review of Functions
+### What is a Function
+### Parent Functions
+#### Constant
+#### Linear
+#### Absolute Vavlue
+### Function Operations
+#### Arithmetic Operations
+#### Composition
+### Inverse Functions
+#### Finding Inverse Functions
+
+## Qudaratic Functions in Vertex Form
+### Graphing
+### Solving
+
+## Quadratic Functions in Standard Form
+### Graphing
+### Factoring
+#### Factoring $x^2+bx+c$
+#### Factoring $ax^2+bx+c$
+### Solving
+
+## Quadratic Functions in Intecept Form
+### Graphing
+
+## Other Methods
+### Completing the Square
+### Quadratic Formula
+
+## Quadratic Modeling
+### Using Vertex and One Point
+### Using an Intercept and One Point
+### Using Three Points
+### Technological Tools
+## Review Exercises
+
+
+
+
+
+
+
